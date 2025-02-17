@@ -1,5 +1,26 @@
 # Changelog
 
+## [0.11.1](https://github.com/riccox/meilisearch-ui/compare/v0.11.0...v0.11.1) (2025-01-16)
+
+
+### Bug Fixes
+
+* document editor remain previous value after close. ([4c2824f](https://github.com/riccox/meilisearch-ui/commit/4c2824f58bd0befb7174590ec7618c12b962118f))
+
+## [0.11.0](https://github.com/riccox/meilisearch-ui/compare/v0.10.3...v0.11.0) (2025-01-16)
+
+
+### Features
+
+* support export and import instances (gh-187) ([8a7e9c1](https://github.com/riccox/meilisearch-ui/commit/8a7e9c1492a25335fd151cc8a24cce4080a61b33))
+
+## [0.10.3](https://github.com/riccox/meilisearch-ui/compare/v0.10.2...v0.10.3) (2025-01-15)
+
+
+### Bug Fixes
+
+* resource load error cause by relative path. gh-185 ([c8700bd](https://github.com/riccox/meilisearch-ui/commit/c8700bdbfe0b210bfd2e3eb6acf8622e57f067c7))
+
 ## [0.10.2](https://github.com/riccox/meilisearch-ui/compare/v0.10.1...v0.10.2) (2025-01-13)
 
 
